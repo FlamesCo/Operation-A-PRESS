@@ -1,0 +1,9 @@
+"""
+Natural language to Visual Basic 0.3b
+##
+Loads the VB.NET Syntax from Microsoft OS Documentation
+Loads the compiler for VS Studio
+Loads BERT NLP into Microsoft's ML.NET API
+---
+Prints the syntax in pure Visual basic
+###
