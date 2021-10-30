@@ -1,2 +1,2 @@
 # Operation-A-PRESS
-Documentation for pentesting tools by the NEO Flamestopian Government
+Documentation for pentesting tool, PATH TO AGI, game dev, and story driven characters with ai by the NEO Flamestopian Government
